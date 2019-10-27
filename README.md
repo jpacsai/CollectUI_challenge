@@ -1,5 +1,5 @@
 # CollectUI_challenge
-Implementing 1 design from each subject selected from CollectUI website collection
+Implementing 1 design selected from each subject from [CollectUI website collection](http://collectui.com/designs)
 
 
 1. Sign Up
